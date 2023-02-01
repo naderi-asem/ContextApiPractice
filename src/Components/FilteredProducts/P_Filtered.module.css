@@ -1,0 +1,17 @@
+.filter_container {
+    display: flex;
+    background-color: #dfdfdf;
+    justify-content: space-around;
+    align-items: center;
+    gap: 12px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+.filter_container>div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+}
